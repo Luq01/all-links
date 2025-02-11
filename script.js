@@ -13,7 +13,7 @@ img.setAttribute("src", "./assets/avatar-light.jpg ","alt","Foto de Lucas, com c
   // se tiver sem light mode, manter a imagem normal
 img.setAttribute(
  "src",
-  "./assets/avatar.png.png",
+  "./assets/avatar-light.jpg",
   "alt",
   "Foto de Lucas, com camisa preta, cabelo preto, com celular na mão"
 )
